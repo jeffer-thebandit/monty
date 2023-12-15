@@ -1,4 +1,4 @@
-#include "headers.h"
+#include "monty.h"
 
 /**
  * _stack - sets the format fo the data to a stack (LIFO)

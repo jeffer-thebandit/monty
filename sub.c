@@ -1,4 +1,4 @@
-#include "headers.h"
+#include "monty.h"
 
 /**
  * _sub - subtracts the top element to the second top element of the stack
