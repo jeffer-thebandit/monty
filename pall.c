@@ -7,7 +7,6 @@
  * @cline: line numbers
  * Return: no return
  */
-
 void _pall(stack_t **doubly, unsigned int cline)
 {
 	stack_t *aux;
@@ -21,4 +20,3 @@ void _pall(stack_t **doubly, unsigned int cline)
 		aux = aux->next;
 	}
 }
-

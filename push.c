@@ -1,4 +1,4 @@
-#include "monty.h"
+#include "headers.h"
 
 /**
  * _push - pushes an element to the stack
@@ -37,4 +37,3 @@ void _push(stack_t **doubly, unsigned int cline)
 	else
 		add_dnodeint_end(doubly, n);
 }
-
